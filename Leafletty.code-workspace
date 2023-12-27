@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../Leafletty"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Leafletty"
+	}
+}
